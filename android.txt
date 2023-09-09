@@ -1,0 +1,22 @@
+jdk->bin->copy path->adv sys setting->environment variable->path-<new
+->JAVA_HOME->copy path in variable
+apply->ok
+download android studio
+include c++ support
+open android
+start new project
+gradel,namel
+designing->xml
+coding->java
+main activity.java
+java is an activity class,any class in java will be activity class if it extends activity
+app compact activity on ctrl+click->go on code
+base fragment activity->ctrl+click
+->->at last main activity
+menifest file==it  contain application base information
+intent filter=
+java->package name->main activity
+app->res->layout->activity+main.xml
+launcher icon->non executible code
+bundle class==
+set content view
